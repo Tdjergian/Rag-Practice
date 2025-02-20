@@ -50,6 +50,6 @@
 #     }
 #   }
 # }
-# mapping = client.indices.get_mapping(index=index_name)
-# print(mapping)
+# # mapping = client.indices.get_mapping(index=index_name)
+# # print(mapping)
 # client.indices.create(index_name, body=index_fields)
